@@ -1,1 +1,1 @@
-# deeplearning_dot_ai_course
+# deeplearning dot ai course by Andrew Ng
